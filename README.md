@@ -100,11 +100,6 @@
 
     <footer>
         <h2>CONTACT</h2>
-        <p>Email : <a href="mailto:sirapatsornsangkawisit@gmail.com">sirapatsornsangkawisit@gmail.com</a></p>
-        <p>Instagram : <a href="https://www.instagram.com/mxwsrps" target="_blank">@mxwsrps</a></p>
-        <p>&copy; <span id="year"></span> SIRAPATSORN SANGKAWISIT. All rights reserved.</p>
-    </footer>
-
-    <script src="script.js"></script>
-</body>
-</html>
+        <p>Email : <a href="mailto:bkmobile54199@gmail.com
+        bkmobile54199@gmail.com</a></p>
+        <p>Instagram : <a href="https://www.instagram.com/Chutima_08_" target="_blank">@chutima_08_</
